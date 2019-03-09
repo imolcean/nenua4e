@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-¯\\_(ツ)_/¯  
+¯\\\_(ツ)\_/¯  
 #ненуачё
 
 ### Contact me
